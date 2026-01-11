@@ -1,4 +1,4 @@
-# thomas-destiny-unveiling-the-mysteries
+# Thomas-Destiny-Unveiling-The-Mysteries
 Scripture-based teachings unveiling biblical truth about God, Jesus Christ, and spiritual transformation.
 
 # Thomas Destiny — Unveiling The Mysteries
