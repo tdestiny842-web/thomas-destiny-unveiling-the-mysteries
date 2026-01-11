@@ -18,3 +18,5 @@ personally with the Bible.
 
 ## 📄 License
 MIT License © 2026 Thomas Destiny
+
+ https://youtube.com/@Thomas_Destiny
