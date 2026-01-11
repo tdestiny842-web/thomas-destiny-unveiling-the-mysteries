@@ -1,0 +1,28 @@
+thomas-destiny-unveiling-the-mysteries/
+│
+├── README.md
+├── LICENSE
+├── .gitignore
+│
+├── channel/
+│   ├── vision.md
+│   ├── mission.md
+│   ├── doctrine.md
+│   ├── disclaimer.md
+│
+├── content/
+│   ├── video-ideas.md
+│   ├── series-outline.md
+│   ├── shorts-hooks.md
+│
+├── scripts/
+│   ├── long-form/
+│   └── shorts/
+│
+├── policies/
+│   ├── comment-policy.md
+│   └── community-rules.md
+│
+└── publishing/
+    ├── upload-checklist.md
+    └── seo-guidelines.md
