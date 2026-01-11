@@ -1,0 +1,9 @@
+docs/
+├── index.md
+├── vision.md
+├── doctrine.md
+├── teachings/
+│   ├── prophets.md
+│   ├── jesus.md
+│   └── psalms.md
+└── disclaimer.md
